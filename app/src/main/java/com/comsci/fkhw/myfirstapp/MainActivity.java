@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.ListView;
 
 public class MainActivity extends AppCompatActivity {
-    //Explicit ประกาศตัวแปล
+    //Explicit ประกาศตัวแปร
     ListView listView;
     private int[] ints = new int[]{R.drawable.traffic_01, R.drawable.traffic_02,
             R.drawable.traffic_03,R.drawable.traffic_04,R.drawable.traffic_05,
